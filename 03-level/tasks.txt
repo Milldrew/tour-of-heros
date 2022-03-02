@@ -1,0 +1,6 @@
+Task 1: Create Mock Heroes
+Task 2: List the heroes usin g ul *ngFor
+Task 3: style the heroes list.
+Task 4: display the selected hero *ngIf
+Task 5: Allow the input to edit the selected heroes name.
+Task 5: Add a class to the selected heroes list item when that list item is selected.

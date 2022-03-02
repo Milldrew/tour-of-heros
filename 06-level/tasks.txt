@@ -1,0 +1,7 @@
+Task 1: Add the AppRoutingModule
+Task 2: Add a route
+Task 3: Add a navigation link
+Task 4: Add a dashboard component with a dashboard view.
+Task 5: Add the dashborad route and link.
+Task 6: The user should be able to see the hero details by clicking a hero in the dashboard, By clicking a hero in the heroes list, By pating a "deep link" URL into the browser address bar that identifies the hero display.
+Task 7: : Add the herog get heroe

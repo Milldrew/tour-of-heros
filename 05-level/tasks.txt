@@ -1,0 +1,12 @@
+Task 1: Create a hero.ervice.ts with an Injectable
+Task 2: Import the Heroes mock data into the heroes service.
+Task 3:  what does @Injectable({providedIn: 'root,'}) do ?
+Task 4: Add the data to the heroes component by injecting the service and remove import statment that was used to import the data previously.
+Task 5: Add a getHeroes method that initalizes an instance with the retriebed heroes.
+Task 6: Generate a messages component
+Task 7: Create a Message Service
+Task 8: Inject it into the hero service
+        So it creates a message when the heroes are fetched declaring the heroes have been fetched.
+Task 9: Display the messages.
+Task 10: add additional messages
+

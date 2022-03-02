@@ -1,0 +1,3 @@
+Task1: Create a Component called HeroDetailComponent
+Task2: Add the display hero boiler plate to this component.
+Task3: Display the component hero details component as part of the heroes component

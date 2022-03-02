@@ -1,0 +1,12 @@
+Task 1: import httpServices into the module
+Task 2: create a nestjs api for heroes
+Task 3: add the http client the heroes service
+Task 4: Get the heroes.
+Task 5: Handle Error
+Task 6: Update heroes
+Task 7: Add new heroes
+Task 8: Delete a hero
+Task 9: Find heroes by name
+Task 10: Add Search to the Dashboard
+Task 11: Create HeroSearchComponent 
+Task 12: Chaining RXjs operators
