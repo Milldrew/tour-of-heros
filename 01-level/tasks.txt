@@ -1,0 +1,6 @@
+1. Create a new angular app called angular-tour-of-heroes
+2. serve the application
+3. Change the title to Tour of Heroes
+4. Style the app
+
+

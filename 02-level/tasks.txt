@@ -1,0 +1,11 @@
+Task 1: Generate a component named heroes
+Task 2: What is the css element's name and css selector? 'app-heroes'
+        What is ngOnInit(){} ? A life cycle hook
+Task 3: Add a property hero to the class
+Task 4: Use the property inside the HTML
+Task 5: Show the heroes component
+Task 6: Create a Hero interface add it to the Heroes component
+Task 7: Display the Heroes information
+Task 8: Format the heroes name with the uppercase pipe
+Task 9: Create an text input that changes the heroes name with two way binding (add the Forms Module)
+Task10: Declare the Heroes Component
