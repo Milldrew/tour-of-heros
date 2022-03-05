@@ -7,5 +7,9 @@ Task 5: Show the heroes component
 Task 6: Create a Hero interface add it to the Heroes component
 Task 7: Display the Heroes information
 Task 8: Format the heroes name with the uppercase pipe
+
 Task 9: Create an text input that changes the heroes name with two way binding (add the Forms Module)
+Add the Reactive Froms module 
+use the FromBuilder service to generate form controls
+bind the [formGroup] for heroes to the form component
 Task10: Declare the Heroes Component
